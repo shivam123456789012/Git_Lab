@@ -1,2 +1,1 @@
-x=str(input("enter user name : "))
-print("my name is : ",x)
+print("my name is shivam garg")
